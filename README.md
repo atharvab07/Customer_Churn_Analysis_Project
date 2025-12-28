@@ -4,8 +4,6 @@ This project predicts bank customer churn using historical customer data (demogr
 
 🔗 [View Dashboard Image](visuals/Churn_Analysis.png)
 
-![Dashboard Screenshot](visuals/Churn_Analysis.png)
-
 ---
 
 ## Business Problem
