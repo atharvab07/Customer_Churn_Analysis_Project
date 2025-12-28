@@ -2,7 +2,7 @@
 
 This project predicts bank customer churn using historical customer data (demographics, account details, and engagement features) and applies Python analysis plus a Power BI dashboard to identify key churn drivers and support data‑driven retention decisions. 
 
-![Churn Analysis Dashboard](visuals/Churn_Analysis.png)
+🔗 [View Dashboard Image](visuals/Churn_Analysis.png)
 
 ![Dashboard Screenshot](visuals/Churn_Analysis.png)
 
@@ -48,8 +48,7 @@ Understanding churn drivers helps banks take proactive retention actions, improv
 
 ## Dashboard Preview
 
-![Page 1](visuals/page1.png)
-![Page 2](visuals/page2.png)
+![Churn Analysis Dashboard](visuals/Churn_Analysis.png)
 
 ---
 
